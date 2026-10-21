@@ -1,4 +1,40 @@
-body {
-    font-size: 10em;
-background: radial-gradient(#A5FECB,#20BDFF,#5433ff);
+body{
+    font-size: 2.2em;
+    background: radial-gradient(#A5FECB,#20BDFF,#5433ff);
+    color : black
+}
+/* gros titre uniquement */
+h1{
+    text-align : center;
+    font-family : Short Stack;
+    font-weight : 700;
+    text-shadow : -1px 3px 2px white;
+}
+/* titres de description uniquement */
+h2{
+    text-align : center;
+    font-family : Short Stack;
+    font-weight : 700;
+}
+
+p{
+    text-align : center;
+    font-family : Short Stack;
+    font-weight : 400;
+    font-size : 1em;
+}
+
+.poisson{
+    text-align : left;
+    font-family : Short Stack;
+    font-weight : 700;
+    font-size : 1.1em;
+}
+.bouton {
+    width : 100px;
+    height : 100px;
+    background-color: sandybrown;
+    border : 2px solid darkblue;
+    border-radius : 10px 50px 10px 0px;
+    box-shadow : -10px 13px 5px white;
 }
