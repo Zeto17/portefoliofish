@@ -36,5 +36,6 @@ p{
     background-color: sandybrown;
     border : 2px solid darkblue;
     border-radius : 10px 50px 10px 0px;
-    box-shadow : -10px 13px 5px white;
+    box-shadow : -3px 3px 25px rgba(0, 0, 0, 0.8);
+    padding : 0px;
 }
